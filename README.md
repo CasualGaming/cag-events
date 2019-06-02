@@ -1,9 +1,7 @@
 # CaG Events
 A gaming event management system.
 
+- [Requirements (draft)](https://docs.google.com/spreadsheets/d/1ZV5bmXWlgyytAoWKmG-1kPizxuWHXbQfac7Z1Hb9KZc/edit?usp=sharing)
+- [RESTful API](https://github.com/CasualGaming/cag-events-api) ([docs](https://casualgaming.dev/cag-events-api/))
 - [Front-end](https://github.com/CasualGaming/cag-events-frontend)
 - [Back-end](https://github.com/CasualGaming/cag-events-backend)
-- [RESTful API](https://github.com/CasualGaming/cag-events-api) ([docs](https://casualgaming.dev/cag-events-api/))
-
-## Miscellaneous
-- May be written as "CaG Events" or "cag-events".
